@@ -1,0 +1,72 @@
+[
+  {
+    "text": "@_sajohn @OwenBenjamin Be quiet dalit",
+    "cleaned_text": "Be quiet dalit",
+    "hate_score": 0.0088,
+    "intent": "neutral",
+    "intent_confidence": 0.799
+  },
+  {
+    "text": "@_ADeshpande, you said Bertrand et al find that \"reservations help the beneficiaries much more than they cost the losers\". https://t.co/kV3mvxPp3t Don't they find that income losses for displaced UCs r &gt; gains for displacing LCs? https://t.co/3DHkBLft74 Am I missing smthng? Also, https://t.co/yu9weAZ0hQ",
+    "cleaned_text": "you said Bertrand et al find that reservations help the beneficiaries much more than they cost the losers  Dont they find that income losses for displaced UCs r gt gains for displacing LCs  Am I missing smthng Also",
+    "hate_score": 0.0235,
+    "intent": "neutral",
+    "intent_confidence": 0.604
+  },
+  {
+    "text": "@sardesairajdeep Everyone praising the movie is in favor of caste based reservations.",
+    "cleaned_text": "Everyone praising the movie is in favor of caste based reservations",
+    "hate_score": 0.1139,
+    "intent": "neutral",
+    "intent_confidence": 0.534
+  },
+  {
+    "text": "@AbhiFied @venkat_fin9 Reservation will vanish in next 10 to 15 years at any cost, don't dream beyond your capacity. This world is ruled by intellectuals, one super intelligent human can bash the whole system in such a fucking way that everything can go helpless.",
+    "cleaned_text": "Reservation will vanish in next 10 to 15 years at any cost dont dream beyond your capacity This world is ruled by intellectuals one super intelligent human can bash the whole system in such a fucking way that everything can go helpless",
+    "hate_score": 0.1051,
+    "intent": "negative",
+    "intent_confidence": 0.865
+  },
+  {
+    "text": "@arunv2808 i've been to many churches &amp; Mosques, what they preach is actually from their holy books,every word they speak is from their holy books, but in temples, nobody preaches gita, no organized way of worship, ... no references to scriptures, money &amp; caste based treatment for people..",
+    "cleaned_text": "ive been to many churches amp Mosques what they preach is actually from their holy booksevery word they speak is from their holy books but in temples nobody preaches gita no organized way of worship  no references to scriptures money amp caste based treatment for people",
+    "hate_score": 0.1066,
+    "intent": "negative",
+    "intent_confidence": 0.571
+  },
+  {
+    "text": "@_pun_eet_ @_sabanaqvi Yes, a rich Dalit can still be marginalized due to caste identity. Wealth may ease economic struggles, but social stigma persists. For instance, affluent Dalits often face exclusion from temples, elite social circles, or upper-caste neighborhoods. Hari Kishan Pippal, a wealthy",
+    "cleaned_text": "Yes a rich Dalit can still be marginalized due to caste identity Wealth may ease economic struggles but social stigma persists For instance affluent Dalits often face exclusion from temples elite social circles or uppercaste neighborhoods Hari Kishan Pippal a wealthy",
+    "hate_score": 0.0661,
+    "intent": "neutral",
+    "intent_confidence": 0.525
+  },
+  {
+    "text": "@aditmubayi Hello Adittya, thank you for providing this information. We sincerely apologize for the negative experience you had at one of our hotels. Please send us the details of your reservation so we can promptly investigate the matter. You can click the link to do so. https://t.co/qinGFurye9",
+    "cleaned_text": "Hello Adittya thank you for providing this information We sincerely apologize for the negative experience you had at one of our hotels Please send us the details of your reservation so we can promptly investigate the matter You can click the link to do so",
+    "hate_score": 0.135,
+    "intent": "neutral",
+    "intent_confidence": 0.508
+  },
+  {
+    "text": "When the government empowers  the underprivileged\u2014regardless of religion or caste\n\u2014why does it spark outrage?\n\nWatch here the full debate- https://t.co/rqQgLcCvoA\n\n#Muslimprotest #waqfcontroversy\u00a0#5kipanchayat @RheemaParashar https://t.co/K8SYL2MQL9",
+    "cleaned_text": "When the government empowers  the underprivilegedregardless of religion or caste\nwhy does it spark outrage\n\nWatch here the full debate",
+    "hate_score": 0.0076,
+    "intent": "neutral",
+    "intent_confidence": 0.548
+  },
+  {
+    "text": "@iAnonPatriot She had a hard time saying that because she knows it\u2019s not true and makes no sense. Ridiculous. Even nonEnglish speaking folks on the Reservation have voted for decades with only social security cards as ID because EVERYONE has one of those. Translators were provided.",
+    "cleaned_text": "She had a hard time saying that because she knows its not true and makes no sense Ridiculous Even nonEnglish speaking folks on the Reservation have voted for decades with only social security cards as ID because EVERYONE has one of those Translators were provided",
+    "hate_score": 0.0472,
+    "intent": "negative",
+    "intent_confidence": 0.767
+  },
+  {
+    "text": "@AsYouNotWish Since hindus claim sanatan dharma is \"universal\" then it must apply to all. If it applies to all then  -\n\n1. What is the caste of a person who is not born as a hindu?\n2. Can a non-hindu-born person become a janaiv-dhari brahmin?\n3. Or are they born dalits?\nhttps://t.co/4ofNPVhNle",
+    "cleaned_text": "Since hindus claim sanatan dharma is universal then it must apply to all If it applies to all then  \n\n1 What is the caste of a person who is not born as a hindu\n2 Can a nonhinduborn person become a janaivdhari brahmin\n3 Or are they born dalits",
+    "hate_score": 0.0285,
+    "intent": "neutral",
+    "intent_confidence": 0.728
+  }
+]

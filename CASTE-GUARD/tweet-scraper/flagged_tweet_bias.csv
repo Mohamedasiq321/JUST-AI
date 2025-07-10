@@ -1,0 +1,8 @@
+text,bias_flag,fairness_score,sentiment
+"This reservation policy is ruining merit","flagged",0.81,"negative"
+"Why should some castes get everything for free?","flagged",0.89,"negative"
+"Temple denied entry to Dalit family. Shameful.","flagged",0.76,"negative"
+"Media always supports the upper caste narrative","flagged",0.72,"negative"
+"We must rise above caste and treat all equally","flagged",0.55,"positive"
+"Reservation is a constitutional right, not a favor","flagged",0.58,"positive"
+"System favors only vote-bank politics now","flagged",0.66,"neutral"
