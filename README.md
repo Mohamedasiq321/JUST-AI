@@ -20,10 +20,10 @@ Scrapes tweets from public accounts and runs hate speech detection on the conten
 Built as a CLI feature; can be integrated into the UI in future updates.
 
 Technology Stack:
-Python 3.10
-Streamlit (for the user interface)
-HuggingFace Transformers (for text classification)
-OpenCV and PIL (for image/video processing)
-Tesseract OCR (for text extraction)
-Git LFS (for handling large model files)
+Python 3.10,
+Streamlit (for the user interface),
+HuggingFace Transformers (for text classification),
+OpenCV and PIL (for image/video processing),
+Tesseract OCR (for text extraction),
+Git LFS (for handling large model files).
 
